@@ -1,11 +1,5 @@
-# [ECCV 2024] Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning
 
-Official PyTorch implementation for ECCV 2024 paper:
 
-**Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning**  
-[Min-Yeong Park](https://github.com/pmy0792)\*, [Jaeho Lee](https://github.com/JH-LEE-KR)\*, and Gyeong-Moon Park† 
-
-[![arXiv](https://img.shields.io/badge/arXiv-2409.10956-b31b1b.svg)](https://arxiv.org/abs/2409.10956) 
 
 
 # Environment
